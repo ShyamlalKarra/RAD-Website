@@ -61,7 +61,7 @@ user_groups:
 
 ---
 
-My research mission is to make it easier to obtain systems with reliable correctness guarantees.
+The group's research mission is to make it easier to obtain systems with reliable correctness guarantees.
 
 To this end, I am developing methods and tools for the rigorous analysis and design of software and hardware, based on formal verification and automatic synthesis.
 
